@@ -200,7 +200,7 @@
 		"electron": "7.1.12",
 		"electron-builder": "21.2.0",
 		"electron-notarize": "0.2.1",
-		"electron-packager": "^12.1.0",
+		"electron-packager": "^16.0.0",
 		"mocha": "^5.2.0",
 		"spectron": "^3.8.0"
 	},
